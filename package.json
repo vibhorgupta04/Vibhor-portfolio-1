@@ -1,5 +1,5 @@
 {
-  "name": "my-portfolio-1",
+  "name": "vibhor-portfolio",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
     "lint": "next lint",
     "generate-sitemap": "node generate-sitemap.js"
   },
+  "keywords": ["javascript", "typescript", "react", "next", "portfolio"],
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
     "@fortawesome/free-brands-svg-icons": "^6.4.2",

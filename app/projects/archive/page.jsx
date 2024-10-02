@@ -9,10 +9,25 @@ import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 const projects = [
   {
     year: "2023",
+    title: "Job Portal Application",
+    tech: "MERN, React JS, Next JS, Node JS, Express JS, MongoDB, TypesScript, Tailwind CSS",
+    github: "https://github.com/vibhorgupta04/career-network",
+    github: "https://github.com/vibhorgupta04/crypto-charts",
+    preview: "https://career-network-sigma.vercel.app/",
+  },
+  {
+    year: "2023",
     title: "CryptoCurrency Dashboard",
     tech: "ReactJS, ChartJS, TailwindCSS, CoinGecko API",
     github: "https://github.com/vibhorgupta04/crypto-charts",
     preview: "https://crypto-currency-dasshboard.vercel.app/",
+  },
+  {
+    year: "2022",
+    title: "Calculator",
+    tech: "ReactJS, Tailwind CSS",
+    github: "https://github.com/vibhorgupta04/react-calculator",
+    preview: "https://react-calculator-tau-ruby.vercel.app/",
   },
 ];
 export default function Page() {

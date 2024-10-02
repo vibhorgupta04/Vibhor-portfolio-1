@@ -110,7 +110,7 @@ const MyPage = () => {
                   >
                     <Button variation="primary">
                       <Link
-                        href={"/docs/cv.pdf"}
+                        href={"/docs/Vibhor_Gupta_Full_Stack_Developer.pdf"}
                         target="_blank"
                         rel="noopener noreferrer"
                         locale={false}
@@ -357,14 +357,14 @@ const MyPage = () => {
                       type: "spring",
                     }}
                   >
-                    <a href="mailto:vibhorgupta04@gmail.com?subject=Hello&body=Hello Vibhor,">
-                      vibhorgupta04@gmail.com
+                    <a href="mailto:vibhorg.dev@gmail.com?subject=Hello&body=Hello Vibhor,">
+                      vibhorg.dev@gmail.com
                     </a>
                   </motion.p>
                   {/* icons */}
                   <div className="flex justify-center items-center space-x-4">
                     <motion.a
-                      href="mailto:vibhorgupta04?subject=Hello&body=Hello Vibhor,"
+                      href="mailto:vibhorg.dev?subject=Hello&body=Hello Vibhor,"
                       className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
                       initial={{ y: 40, opacity: 0 }}
                       whileInView={{ y: 0, opacity: 1 }}

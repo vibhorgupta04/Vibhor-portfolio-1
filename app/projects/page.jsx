@@ -6,9 +6,9 @@ import Button from "@/components/Button";
 import Image from "next/legacy/image";
 
 // images
-import ReactChat1 from "@/public/projects/crypto/crypto1.png";
-import ReactChat2 from "@/public/projects/crypto/crypto1.png";
-import ReactChat3 from "@/public/projects/crypto/crypto1.png";
+import Crypto1 from "@/public/projects/crypto/crypto1.png";
+import Crypto2 from "@/public/projects/crypto/crypto2.png";
+import Crypto3 from "@/public/projects/crypto/crypto3.png";
 import ProjectAll from "@/public/img/projects.png";
 
 import Hr from "@/components/Hr";
@@ -45,7 +45,7 @@ export default function Page() {
             >
               <Image
                 src={ProjectAll}
-                alt="Vibhor"
+                alt="crypto"
                 layout="fill"
                 objectFit="cover"
                 placeholder="blur"
@@ -101,8 +101,8 @@ export default function Page() {
                   className="w-full h-full shadow-lg"
                 >
                   <Image
-                    src={ReactChat1}
-                    alt="Vibhor"
+                    src={Crypto1}
+                    alt="crypto"
                     layout="fill"
                     objectFit="cover"
                     placeholder="blur"
@@ -126,8 +126,8 @@ export default function Page() {
                   className="w-full h-full shadow-lg "
                 >
                   <Image
-                    src={ReactChat3}
-                    alt="Vibhor"
+                    src={Crypto3}
+                    alt="crypto"
                     layout="fill"
                     objectFit="cover"
                     placeholder="blur"
@@ -153,8 +153,8 @@ export default function Page() {
                   className="w-full h-full shadow-lg"
                 >
                   <Image
-                    src={ReactChat2}
-                    alt="Vibhor"
+                    src={Crypto2}
+                    alt="crypto"
                     layout="fill"
                     objectFit="cover"
                     placeholder="blur"
