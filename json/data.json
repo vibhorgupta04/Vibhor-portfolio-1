@@ -1,0 +1,25 @@
+{
+  "Projects": [
+    {
+      "title": "CryptoCurrency Dashboard",
+      "desc": [
+        "Developed a robust cryptocurrency dashboard application using React, enabling users to track and analyze cryptocurrency data. Implemented realtime search functionality for intuitive discovery of specific cryptocurrencies, and allowed users to switch between different currencies for flexible viewing of prices and statistics. Integrated Chart.js to provide customizable and interactive charts for in-depth analysis of cryptocurrency trends and comparisons. Additionally, created a section to highlight trending coins,offering insights into current market dynamics."
+      ],
+      "year": "2023",
+      "preview": "https://crypto-currency-dasshboard.vercel.app/",
+      "code": "https://github.com/vibhorgupta04/crypto-charts",
+      "images": [
+        "/projects/crypto/crypto1.png"
+        
+      ],
+      "tech": [
+        "ReactJS",
+        "ChartJS",
+        "Tailwind CSS",
+        "Redux",
+        "CoinGecko API"
+      ], 
+      "slug": "crypto"
+    }
+  ]
+}
