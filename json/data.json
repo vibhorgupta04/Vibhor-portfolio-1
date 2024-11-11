@@ -66,6 +66,28 @@
         "Tailwind CSS"
       ], 
       "slug": "calculator"
+    },
+    {
+      "title": "Lucky Spin Wheel",
+      "desc": [
+        "A fun, interactive spin wheel game built with Next.js and styled with Tailwind CSS. Spin the wheel to win prizes with a visually engaging interface that includes custom animations, sounds, and prize configurations."
+      ],
+      "year": "2024",
+      "preview": "https://lucky-spin-wheel-one.vercel.app/",
+      "code": "https://github.com/vibhorgupta04/lucky-spin-wheel",
+      "images": [
+        "/projects/lucky-spin/lucky-spin-0.png",
+        "/projects/lucky-spin/lucky-spin-1.png",
+        "/projects/lucky-spin/lucky-spin-2.png"
+      ],
+      "tech": [
+        "Next JS",
+        "Tailwind CSS",
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ], 
+      "slug": "lucky-wheel"
     }
   ]
 }

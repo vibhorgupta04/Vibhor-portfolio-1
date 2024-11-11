@@ -8,11 +8,17 @@ import FixedButon from "@/components/FixedButton";
 import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 const projects = [
   {
+    year: "2024",
+    title: "Lucky Spin Wheel",
+    tech: "Next JS, CSS, JavaScript, TypeScript",
+    github: "https://github.com/vibhorgupta04/lucky-spin-wheel",
+    preview: "https://lucky-spin-wheel-one.vercel.app/",
+  },
+  {
     year: "2023",
     title: "Job Portal Application",
     tech: "MERN, React JS, Next JS, Node JS, Express JS, MongoDB, TypesScript, Tailwind CSS",
     github: "https://github.com/vibhorgupta04/career-network",
-    github: "https://github.com/vibhorgupta04/crypto-charts",
     preview: "https://career-network-sigma.vercel.app/",
   },
   {

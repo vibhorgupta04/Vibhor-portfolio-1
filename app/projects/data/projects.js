@@ -1,8 +1,18 @@
 import Crypto from "@/public/projects/main-project/crypto1.png";
 import Job from "@/public/projects/main-project/job.png";
 import Calculator from "@/public/projects/main-project/calculator.png";
+import Lucky from "@/public/projects/main-project/lucky-spin.png";
 
 export const projects = [
+  {
+    title: "Lucky Spin Wheel",
+    desc: "A fun, interactive spin wheel game built with Next.js and styled with Tailwind CSS. Spin the wheel to win prizes with a visually engaging interface that includes custom animations, sounds, and prize configurations.",
+    year: "2024",
+    tech: "Next JS, CSS, JavaScript, TypeScript",
+    bg: Lucky,
+    slug: "lucky-wheel",
+    category: 1,
+  },
   {
     title: "Job Portal Application",
     desc: "This project is a Next.js application for a job portal, providing users with a platform to browse job listings, view job descriptions, register as users, and utilize search and filter functionalities. The application features a responsive and modern UI.",
